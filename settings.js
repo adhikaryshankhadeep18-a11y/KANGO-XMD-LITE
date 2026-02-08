@@ -28,13 +28,13 @@ global.ownernumber = process.env.OWNER_NUMBER || '919007509460'
 
 //--------------------[ SUDO ]--------------------------//
 
-global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['233509977126', '233577860202'];
+global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['233509977126', '9190075 09460'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Hector Manuel' 
+global.ownername = process.env.OWNER_NAME || 'LORD SHANKHA' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
@@ -43,7 +43,7 @@ global.packname = process.env.STICKER_PACK_NAME || "KANGO-XMD"
 //--------------[ COUNTRY TIMEZONE ]------------//
 
 
-global.timezones = 'Africa/Accra';  // Set this to you timezone
+global.timezones = 'India/New Delhi';  // Set this to you timezone
 
 
 
