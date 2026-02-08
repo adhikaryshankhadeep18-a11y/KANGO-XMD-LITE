@@ -4,7 +4,7 @@
 // @author : Hector 
 // @telegram : http://t.me/official_kango
 // @github : OfficialKango
-// @whatsapp : +233509977126
+// @whatsapp : +9190075 09460
 
 //----------------------[ KANGO-XMD ]----------------------//
 
